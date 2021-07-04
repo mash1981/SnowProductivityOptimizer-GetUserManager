@@ -1,4 +1,4 @@
-﻿function GetUserManager {
+﻿function GetUsersManagerfromAD{
 param ($userid)
 	
 	if ($userid.Contains("\"))	{
